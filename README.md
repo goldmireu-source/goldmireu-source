@@ -1,10 +1,5 @@
 # goldmireu-source
 
-AI 기반 자동화 도구를 개발하는 개인 개발자입니다.
-Python · Flask · Claude API를 활용해 실제로 쓰는 서비스를 직접 만들고 운영합니다.
-
----
-
 ## Projects
 
 ### [cardnews-bot](https://github.com/goldmireu-source/cardnews-bot)
