@@ -26,18 +26,20 @@ Wild Rift 인게임 오버레이 지원 안드로이드 앱 — 148챔피언 카
 - **Stack:** Kotlin · Android (minSdk 26) · Gradle KTS · Material Design · Glide · WindowManager
 - **Features:** 챔피언 이름/포지션 필터 검색, 148챔피언 카운터 DB, 인게임 플로팅 오버레이
 
+### [traffic-signal-optimizer](https://github.com/goldmireu-source/traffic-signal-optimizer)
+Python으로 구현한 실시간 교통 시뮬레이션 및 신호 최적화 분석 시스템 — 강남역 실제 도로망 기반 4가지 신호 전략 비교 및 멀티에이전트 AI 자율 제어
+
+- **Stack:** Python · pygame · numpy · networkx · osmnx · scipy · matplotlib
+- **Features:** IDM 차량 모델, 4전략 비교(Fixed/Actuated/GA/DQN), 멀티에이전트 AI, OSM 실제 도로망, 실시간 GUI
+
 ---
 
 ## Tech Stack
 
 ```
-Languages   Python · HTML · JavaScript
+Languages   Python · HTML · JavaScript · Kotlin
 Frameworks  Flask · APScheduler · SQLAlchemy
 AI / LLM    Anthropic Claude · Google Gemini · Groq (Llama / Qwen)
 Infra       Oracle Cloud · GitHub Actions · Cloudflare Tunnel · systemd
 Tools       Playwright · BeautifulSoup4 · feedparser · fastembed (ONNX)
 ```
-
----
-
-*270+ contributions · 3 public repos · joined May 2026*
